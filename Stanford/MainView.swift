@@ -13,7 +13,7 @@ struct MainView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Fuck you. Aggressive coding")
+            Text("Fuck you again now. Aggressive coding")
         }
         .padding()
     }
